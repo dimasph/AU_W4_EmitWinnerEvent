@@ -17,8 +17,6 @@ git clone <repository_url>
 
 2.  Change to the project directory:
 
-bashCopy code
-
 ```shell
 cd <project_directory>
 ```
